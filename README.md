@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Roland, a 4th year student in Datascience and IA at ESILV Paris-La Défense</h3>
 
+<br/>
+
+<p align="center"><img align="center" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600px"></p>
 <!--
 **rolanddenizot/rolanddenizot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
