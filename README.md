@@ -41,10 +41,13 @@
 <br/>
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<h2>📈 My GitHub Stats</h2>
+
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rolanddenizot&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<br/>
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolanddenizot&layout=compact&theme=cobalt" />
 </a>
 
@@ -53,7 +56,7 @@
 <br/>
 <br/>
 
-<h2>💬 About Me</h2>
+<h2>💬 Connect With Me</h2>
 
-- E-mail Address: roland.denizot@edu.devinci.fr
-- LinkedIn: https://www.linkedin.com/in/rolanddenizot/
+<a href = "https://www.linkedin.com/in/rolanddenizot/"><img width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "mailto:roland.denizot@edu.devinci.fr"><img width="40px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
