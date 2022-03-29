@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Roland, a 4th year student in Datascience and IA at ESILV Paris-La Défense</h3>
+<h3 align="center">I'm Roland, a 4th year student in Datascience and AI at ESILV Paris-La Défense</h3>
 
 <br/>
 
