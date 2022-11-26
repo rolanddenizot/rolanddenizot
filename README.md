@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Roland, a 4th year student in Datascience and AI at ESILV Paris-La Défense</h3>
+<h3 align="center">I'm Roland, a 5th year student in Datascience and AI at ESILV Paris-La Défense</h3>
 
 <br/>
 
@@ -10,15 +10,27 @@
 
 <h2>🎓 My courses this semester</h2>
 
-- Chatbots and Recommendation Systems
+- Machine Learning Use Cases
 
-- Web Application Architecture
+- Machine Learning for Natural Language Processing
 
-- Web Datamining & Semantics
+- Data Visualization
 
-- Advances Topics in NoSQL Databases
+- Web Scraping & Data Processing
 
-- Neural Networks & Deep Learning
+- Data Structure for Cloud
+
+- Big Data Processing in Spark
+
+- Big Data Ecosystem
+
+- Graph and Mining
+
+- IT Management
+
+- Scientific Monitoring and Technological Challenges
+
+- Soft Skills Leadership
 
 
 <br/>
