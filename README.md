@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Roland, a Agentic AI Engineer Consultant at IBM, gratuated from ESILV Paris-La Défense</h3>
+<h3 align="center">I'm Roland, an Agentic AI Engineer Consultant at IBM, gratuated from ESILV Paris-La Défense</h3>
 
 <br/>
 
